@@ -13,6 +13,6 @@ and model can be selected from "pidinet_v2", pidinet_tiny_v2, pidinet_small_v2"
 
 ## Eval PiDiNeXt on BSDS500
 similair to training but loading pretrained model and using  ```--evaluate-converted```
-model can be selected from ```pidinet_tiny_v2_converted, pidinet_small_v2_converted, pidinet_v2_converted```  
+```model can be selected from ```pidinet_tiny_v2_converted, pidinet_small_v2_converted, pidinet_v2_converted```  
 
 
